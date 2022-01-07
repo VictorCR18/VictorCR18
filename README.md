@@ -4,7 +4,7 @@
 
 - 🏫 School student Eeep Flavio Gomes Granjeiro
 
-- 📚 I’m currently learning **React Js**
+- 📚 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VictorCR18](https://github.com/VictorCR18)
 
