@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 
-- 🔥 Full Stack developer
-
-- 🏫 School student Eeep Flavio Gomes Granjeiro
+- 🔥 Aspiring Full Stack Developer
 
 - 📚 I’m currently learning **Angular**
 
