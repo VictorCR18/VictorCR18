@@ -4,7 +4,7 @@
 
 - 📚 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VictorCR18](https://github.com/VictorCR18)
+- 👨‍💻 All of my projects are available at https://github.com/VictorCR18?tab=repositories
 
 - 📫 How to reach me **Cavalcantevictor2003@gmail.com**
 
