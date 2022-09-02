@@ -25,4 +25,4 @@
   <img align="rigth" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VictorCR18&layout=compact&theme=tokyonight" alt="Quadrified's stats"/>
 </a>
 
-<link src="snake.yml">
+<img src="snake.yml">
