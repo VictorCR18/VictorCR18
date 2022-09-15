@@ -24,5 +24,3 @@
 <a href="https://github.com/VictorCR18/Portifolio">
   <img align="rigth" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VictorCR18&layout=compact&theme=tokyonight" alt="Quadrified's stats"/>
 </a>
-
-<img src="github-user-contribution.svg">
