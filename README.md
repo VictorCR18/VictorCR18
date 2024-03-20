@@ -2,7 +2,7 @@
 
 - 🔥 Aspiring Full Stack Developer
 
-- 📚 I’m currently learning **React Js**
+- 📚 I’m currently learning **Angular 17**
 
 - 👨‍💻 All of my projects are available at https://github.com/VictorCR18?tab=repositories
 
