@@ -2,11 +2,11 @@
 
 - 🔥 Aspiring Full Stack Developer
 
-- 📚 I’m currently learning **Angular 17**
+- 📚 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at https://github.com/VictorCR18?tab=repositories
 
-- 📫 How to reach me **Cavalcantevictor2003@gmail.com**
+- 📫 How to reach me **cavalcantevictor2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
