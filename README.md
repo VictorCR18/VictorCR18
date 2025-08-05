@@ -47,7 +47,6 @@
 
 ### 📌 What's Next:
 - Aprofundar em **Kotlin**, com foco em Android e desenvolvimento de APIs REST com **Ktor** ou **Spring Boot**  
-- Contribuir em projetos **open source** e hackathons  
 - Criar soluções **full stack** integrando Kotlin no backend e React no frontend  
 
 ---
