@@ -38,7 +38,7 @@
 
 ### 💡 Skills & Expertise:
 - **Frontend**: React, Angular, HTML5, CSS3, JavaScript, TypeScript  
-- **Backend**: Node.js, Kotlin (em aprendizado – APIs REST e Android)  
+- **Backend**: Node.js, SpringBoot, Kotlin (em aprendizado – APIs REST e Android)  
 - **Bancos de Dados**: PostgreSQL, MySQL  
 - **Ferramentas**: Git, GitHub  
 - **Boas Práticas**: SPA, arquitetura limpa, consumo de APIs, estado reativo  
