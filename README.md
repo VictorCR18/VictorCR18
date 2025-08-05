@@ -1,26 +1,60 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 
-- 🔥 Aspiring Full Stack Developer
-
-- 📚 I’m currently learning **Kotlin**
-
-- 👨‍💻 All of my projects are available at https://github.com/VictorCR18?tab=repositories
-
-- 📫 How to reach me **cavalcantevictor2003@gmail.com**
+- 🔥 Aspiring Full‑Stack Developer with a technical background from Universidade Federal do Ceará (Paraipaba‑CE)
+- 💼 Currently diving deep into **Kotlin**, desenvolvendo projetos Android e backend
+- 🚀 Check out my live GitHub projects and code ➜ [github.com/VictorCR18](https://github.com/VictorCR18?tab=repositories)
+- 📫 Reach me at **cavalcantevictor2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100007038217392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="victor cavalcante" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_veto0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_veto0" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100007038217392" target="_blank"><img src="https://...facebook.svg" alt="Facebook" height="30"/></a>
+  <a href="https://www.instagram.com/_veto0/" target="_blank"><img src="https://...instagram.svg" alt="Instagram" height="30"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages &amp; Tools:</h3>
 <p align="left">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   </a><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <img src="https://...html5-original-wordmark.svg" alt="HTML5" width="40"/> 
+  <img src="https://...css3-original-wordmark.svg" alt="CSS3" width="40"/> 
+  <img src="https://...c-original.svg" alt="C" width="40"/> 
+  <img src="https://...java-original.svg" alt="Java" width="40"/> 
+  <img src="https://...javascript-original-wordmark.svg" alt="JavaScript" width="40"/>
+  <img src="https://...typescript-original.svg" alt="TypeScript" width="40"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40"/>
+  <img src="https://...react-original-wordmark.svg" alt="React" width="40"/>  
+  <img src="https://...nodejs-original-wordmark.svg" alt="Node.js" width="40"/>
+  <img src="https://...postgresql-original-wordmark.svg" alt="PostgreSQL" width="40"/>
+  <img src="https://...mysql-original-wordmark.svg" alt="MySQL" width="40"/>
+  <img src="https://...git-scm-icon.svg" alt="Git" width="40"/>
+  <img src="https://...kotlin-logo.svg" alt="Kotlin" width="40"/>
+</p>
 
+---
 
-<a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank"><a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   </p>
+<h3 align="left">📁 Featured Projects</h3>
+- **RocketNews**: clone do Medium usando JavaScript, Hooks e MobX para feed dinâmico e real‑time updates  
+- **Countdown**: contador regressivo com CSS puro — desafio Rocketseat  
+- **GeekafeSite**: e‑commerce com React + MobX para gerenciamento de estado  
+- **RickAndMortyApp**: SPA React consumindo API externa com filtros e paginação  
+- **RegisterEmployee**: CRUD com JavaScript para cadastro de funcionários  
+- **RocketCoffee**: cardápio digital em HTML/CSS desenvolvido durante a Maratona Explorer 3.0 :contentReference[oaicite:1]{index=1}  
 
-<a href="https://github.com/VictorCR18/Portifolio">
-  <img align="rigth" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VictorCR18&layout=compact&theme=tokyonight" alt="Quadrified's stats"/>
-</a>
+---
+
+<h3 align="left">🔧 Skills &amp; Expertise</h3>
+- Frontend: React, Angular, CSS, HTML5, JavaScript, TypeScript  
+- Backend: Node.js, Kotlin (em aprendizado — construindo APIs REST e aplicativos Android)  
+- Bancos de dados: PostgreSQL, MySQL  
+- Controle de versão: Git/GitHub  
+- Práticas modernas: consumo de APIs, hooks, SPA, arquitetura limpa  
+
+---
+
+<h3 align="left">🎯 What’s Next</h3>
+- Aprofundar em **Kotlin**, especialmente com Android e APIs REST com **Ktor** ou **Spring Boot**  
+- Contribuir para projetos Open Source e hackathons  
+- Construir projetos Full‑Stack integrados, por exemplo Kotlin backend + React frontend  
+
+---
+
+<h3 align="left">📊 GitHub Stats</h3>
+<a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VictorCR18&layout=compact&theme=tokyonight"><img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VictorCR18&layout=compact&theme=tokyonight" alt="Top langs"/></a>
