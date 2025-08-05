@@ -93,7 +93,3 @@ EEEP Flávio Gomes Granjeiro – *2019 – 2021*
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VictorCR18&layout=compact&theme=tokyonight" alt="Top languages"/>
 </a>
 
-### 📊 GitHub Stats:
-<a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VictorCR18&layout=compact&theme=tokyonight">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VictorCR18&layout=compact&theme=tokyonight" alt="Top languages"/>
-</a>
